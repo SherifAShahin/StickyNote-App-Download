@@ -2,7 +2,8 @@
 Hi, here you will find StickyNote application that will help you to organize your tasks!
 
 # Download-Link
-for arm64 architecture - 64-bit processor  ### (recommended)  
+### (recommended) 
+for arm64 architecture - 64-bit processor   
 https://drive.google.com/file/d/1T8XYYMuS88LyTJ56PVoRpzutDO6bGRwk/view?usp=sharing   
   
 for x86_64 architecture - 64-bit processor  
